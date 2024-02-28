@@ -1,0 +1,90 @@
+//welcome to tanvir language
+/* Hope you enjoy it*/
+
+function main ( )
+[
+	purno  tanvir_a ,  tanvir_b , tanvir_c , tanvir_c , tanvir_b #
+	tanvir_a : 8 #
+	tanvir_b : 4 #
+	tanvir_ad : 8 #
+	8 inc #
+	5 dec #
+	!# 8 !# #
+	1 pl 12 vag 4 gun 4 #
+	18 mi 15 pl 8 vag 2 gun 5 #
+	Agar ( 5 pl 3 mi 8 )
+		[
+			12 pl 8 vag 2 #
+		]
+		
+	Agar ( 5 pl 8 )
+		[
+			4 fact #
+
+		]
+
+	Agar ( 7 $ 5 )
+		[
+			2 pl 7 pl 6 gun 2 mi 18 vag 3 #
+		]
+	Nehito
+		[
+			6 pl 8 vag 4 pl 2 gun 3 mi 1 #
+		]
+	Agar ( 7 @ 5 )
+		[
+			Agar ( 7 $ 5 )
+			[
+				7 pl 7 pl 6 gun 2 mi 18 vag 3 #
+			]
+			Nehito
+			[
+				3 pl 8 vag 4 pl 2 gun 3 mi 1 #
+			]
+			2 pl 7 pl 6 gun 2 mi 18 vag 3 #
+		]
+	Nehito
+		[
+			6 pl 8 vag 4 pl 2 gun 3 mi 1 #
+		]
+		
+	Agar ( 7 $ 5 )
+		[
+			2 pl 7 pl 6 gun 2 mi 18 vag 3 #
+		]
+	Phirbhi ( 2 @ 1 )
+		[
+			3 pl 4 gun 2 vag 2 #
+		] 
+	Nehito
+		[
+			6 pl 8 vag 4 pl 2 gun 3 mi 1 #
+		]
+		
+	jonno ( 2 :: 6 ) [ 4 pl 2 ]
+
+	choltethako ( 0 @ 5 ) [ 4 pl 2 ]
+
+	shift ( 2 ) [ check 1 :: 4 pl 2 # check 2 :: 3 pl 2 # milenai :: 5 fact # ]                                         
+	
+
+	func tanvir :: purno ( ) [ # ] 
+	
+	2^2 #
+	log 30#
+	log10 30#
+	sin 30#
+	cos 30#
+	tan 30#
+	3 mod 2#
+	
+	losagu 3 6#
+	gosagu 4 6#
+	
+	1 or 4#
+	1 oror 4#
+	1 and 2#
+	1 andand 2#
+	
+]
+

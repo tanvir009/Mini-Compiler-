@@ -1,0 +1,79 @@
+single line comment
+multiple_line_comment
+tanvir_c is already declared
+tanvir_b is already declared
+
+valid declaration
+
+(tanvir_a) Value of the variable: 8	
+
+(tanvir_b) Value of the variable: 4	
+tanvir_ad not declared yet
+inc: 9
+
+value of expression: 9
+dec: 4
+
+value of expression: 4
+not: 0
+
+value of expression: 0
+
+value of expression: 13
+
+value of expression: 23
+
+condition value zero in IF block
+
+value of expression in IF: 24
+
+value of expression in ELSE: 13
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+value of expression in ELIF: 7
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+While LOOP: 0 1 2 3 4 5 
+value of the expression: 6
+
+Case No : 2  and Result :  5
+SWITCH case.
+Function Declared
+
+value of expression: 4
+log: 3.401197
+
+value of expression: 3
+log10: 1.477121
+
+value of expression: 3
+sin: 0.500001
+
+value of expression: 0
+cos: 0.866025
+
+value of expression: 0
+tan: 0.577352
+
+value of expression: 0
+
+value of expression: 1
+G.C.D of 3 and 6 is 3
+value of expression: 3
+L.C.M. of 4 and 6 is 12.
+value of expression: 12
+
+value of expression: 5
+
+value of expression: 1
+
+value of expression: 0
+
+value of expression: 1
+
+Successful compilation
